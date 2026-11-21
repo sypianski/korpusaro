@@ -1,9 +1,978 @@
 {
  "title": "Korpusaro changelog",
- "generated": "2026-11-21T22:42:14",
- "count": 54,
+ "generated": "2026-11-21T23:48:53",
+ "count": 175,
  "note": "Events are computed when the register is rebuilt: a corpus added or removed, or a change in licence, access, availability flag, download addresses, source address or the number of works and authors.",
  "events": [
+  {
+   "date": "2026-11-21",
+   "event": "changed",
+   "id": "igcyr",
+   "name": "IGCyr",
+   "field": "license_status",
+   "from": "restricted",
+   "to": "open"
+  },
+  {
+   "date": "2026-11-21",
+   "event": "added",
+   "id": "zenodo-late-qing-medical-history",
+   "name": "Late Qing medical history transc",
+   "license_status": "open",
+   "n_works": ""
+  },
+  {
+   "date": "2026-11-21",
+   "event": "added",
+   "id": "wikisource-da",
+   "name": "Wikisource da",
+   "license_status": "open",
+   "n_works": ""
+  },
+  {
+   "date": "2026-11-21",
+   "event": "added",
+   "id": "westfaelisches-urkundenbuch-archive-org",
+   "name": "Westfäl. UB",
+   "license_status": "not_stated",
+   "n_works": ""
+  },
+  {
+   "date": "2026-11-21",
+   "event": "added",
+   "id": "wellcome-collection-digitised-works-text-api",
+   "name": "Wellcome Text API",
+   "license_status": "open",
+   "n_works": ""
+  },
+  {
+   "date": "2026-11-21",
+   "event": "added",
+   "id": "vakk-old-written-estonian",
+   "name": "VAKK",
+   "license_status": "restricted",
+   "n_works": ""
+  },
+  {
+   "date": "2026-11-21",
+   "event": "added",
+   "id": "ud-sanskrit-vedic",
+   "name": "UD Sanskrit Vedic",
+   "license_status": "open",
+   "n_works": ""
+  },
+  {
+   "date": "2026-11-21",
+   "event": "added",
+   "id": "ud-pali-palicanon",
+   "name": "UD Pali PaliCanon",
+   "license_status": "open",
+   "n_works": ""
+  },
+  {
+   "date": "2026-11-21",
+   "event": "added",
+   "id": "ud-classical-chinese-kyoto",
+   "name": "UD Classical Chinese Kyoto",
+   "license_status": "open",
+   "n_works": ""
+  },
+  {
+   "date": "2026-11-21",
+   "event": "added",
+   "id": "tridis-htr-corpus",
+   "name": "TRIDIS",
+   "license_status": "open",
+   "n_works": ""
+  },
+  {
+   "date": "2026-11-21",
+   "event": "added",
+   "id": "tokushige-tibetan-corpus",
+   "name": "tibetan-corpus (tantra)",
+   "license_status": "open",
+   "n_works": ""
+  },
+  {
+   "date": "2026-11-21",
+   "event": "added",
+   "id": "tipitaka-org-cst",
+   "name": "Tipitaka.org",
+   "license_status": "not_stated",
+   "n_works": ""
+  },
+  {
+   "date": "2026-11-21",
+   "event": "added",
+   "id": "tekstnet-dsl-collection",
+   "name": "Tekstnet DSL",
+   "license_status": "restricted",
+   "n_works": ""
+  },
+  {
+   "date": "2026-11-21",
+   "event": "added",
+   "id": "szeged-loca-credibilia-charters-1181-1353",
+   "name": "Loca credibilia Szeged",
+   "license_status": "not_stated",
+   "n_works": ""
+  },
+  {
+   "date": "2026-11-21",
+   "event": "added",
+   "id": "statuti-ascoli-digital-edition",
+   "name": "Statuti Ascoli",
+   "license_status": "open",
+   "n_works": ""
+  },
+  {
+   "date": "2026-11-21",
+   "event": "added",
+   "id": "speriodika-slovenian-periodicals-1771-1914",
+   "name": "sPeriodika",
+   "license_status": "open",
+   "n_works": ""
+  },
+  {
+   "date": "2026-11-21",
+   "event": "added",
+   "id": "sjw-seungjeongwon-ilgi",
+   "name": "Seungjeongwon ilgi",
+   "license_status": "not_stated",
+   "n_works": ""
+  },
+  {
+   "date": "2026-11-21",
+   "event": "added",
+   "id": "sillok-joseon-annals",
+   "name": "Joseon Sillok",
+   "license_status": "to_check",
+   "n_works": ""
+  },
+  {
+   "date": "2026-11-21",
+   "event": "added",
+   "id": "runeberg",
+   "name": "Runeberg",
+   "license_status": "open",
+   "n_works": ""
+  },
+  {
+   "date": "2026-11-21",
+   "event": "added",
+   "id": "rps-records-parliaments-scotland",
+   "name": "RPS",
+   "license_status": "to_check",
+   "n_works": ""
+  },
+  {
+   "date": "2026-11-21",
+   "event": "added",
+   "id": "romtext-romanian-annotated-dated-corpus",
+   "name": "ROMTEXT",
+   "license_status": "not_stated",
+   "n_works": ""
+  },
+  {
+   "date": "2026-11-21",
+   "event": "added",
+   "id": "reverino-regesta-pontifical",
+   "name": "REVERINO",
+   "license_status": "open",
+   "n_works": ""
+  },
+  {
+   "date": "2026-11-21",
+   "event": "added",
+   "id": "rerum-italicarum-scriptores-archive-org",
+   "name": "RIS Muratori",
+   "license_status": "not_stated",
+   "n_works": ""
+  },
+  {
+   "date": "2026-11-21",
+   "event": "added",
+   "id": "qhod-edition-data-habsburg-ottoman-diplomacy",
+   "name": "QhoD",
+   "license_status": "open",
+   "n_works": ""
+  },
+  {
+   "date": "2026-11-21",
+   "event": "added",
+   "id": "project-madurai",
+   "name": "Project Madurai",
+   "license_status": "to_check",
+   "n_works": ""
+  },
+  {
+   "date": "2026-11-21",
+   "event": "added",
+   "id": "prevhist-old-middle-hungarian",
+   "name": "PrevHist",
+   "license_status": "open",
+   "n_works": ""
+  },
+  {
+   "date": "2026-11-21",
+   "event": "added",
+   "id": "post-scriptum-pt-es",
+   "name": "Post Scriptum",
+   "license_status": "not_stated",
+   "n_works": ""
+  },
+  {
+   "date": "2026-11-21",
+   "event": "added",
+   "id": "pleias-spanish-pd-books",
+   "name": "Spanish-PD-Books",
+   "license_status": "not_stated",
+   "n_works": ""
+  },
+  {
+   "date": "2026-11-21",
+   "event": "added",
+   "id": "pleias-italian-pd",
+   "name": "Italian-PD",
+   "license_status": "not_stated",
+   "n_works": ""
+  },
+  {
+   "date": "2026-11-21",
+   "event": "added",
+   "id": "pleias-german-pd",
+   "name": "German-PD",
+   "license_status": "not_stated",
+   "n_works": ""
+  },
+  {
+   "date": "2026-11-21",
+   "event": "added",
+   "id": "pleias-french-pd-newspapers",
+   "name": "French-PD-Newspapers",
+   "license_status": "to_check",
+   "n_works": ""
+  },
+  {
+   "date": "2026-11-21",
+   "event": "added",
+   "id": "pleias-french-pd-books",
+   "name": "French-PD-Books",
+   "license_status": "to_check",
+   "n_works": ""
+  },
+  {
+   "date": "2026-11-21",
+   "event": "added",
+   "id": "pleias-common-corpus",
+   "name": "Common Corpus",
+   "license_status": "to_check",
+   "n_works": ""
+  },
+  {
+   "date": "2026-11-21",
+   "event": "added",
+   "id": "pdl-persian-digital-library",
+   "name": "PDL",
+   "license_status": "open",
+   "n_works": ""
+  },
+  {
+   "date": "2026-11-21",
+   "event": "added",
+   "id": "pceec2",
+   "name": "PCEEC2",
+   "license_status": "to_check",
+   "n_works": ""
+  },
+  {
+   "date": "2026-11-21",
+   "event": "added",
+   "id": "otdo",
+   "name": "OTDO",
+   "license_status": "not_stated",
+   "n_works": ""
+  },
+  {
+   "date": "2026-11-21",
+   "event": "added",
+   "id": "ota-otc-corpus-hf",
+   "name": "OTC Corpus",
+   "license_status": "restricted",
+   "n_works": ""
+  },
+  {
+   "date": "2026-11-21",
+   "event": "added",
+   "id": "ota-histr-ner-hf",
+   "name": "HisTR",
+   "license_status": "restricted",
+   "n_works": ""
+  },
+  {
+   "date": "2026-11-21",
+   "event": "added",
+   "id": "oorkondenboek-holland-zeeland-tot-1299",
+   "name": "OHZ",
+   "license_status": "restricted",
+   "n_works": ""
+  },
+  {
+   "date": "2026-11-21",
+   "event": "added",
+   "id": "onb-austrian-books-online-abo",
+   "name": "ABO (ONB)",
+   "license_status": "to_check",
+   "n_works": ""
+  },
+  {
+   "date": "2026-11-21",
+   "event": "added",
+   "id": "old-bailey-proceedings-1674-1913",
+   "name": "Old Bailey Proceedings",
+   "license_status": "restricted",
+   "n_works": ""
+  },
+  {
+   "date": "2026-11-21",
+   "event": "added",
+   "id": "nlf-digi-open-data-finnish-newspapers",
+   "name": "NLF Digi open data",
+   "license_status": "to_check",
+   "n_works": ""
+  },
+  {
+   "date": "2026-11-21",
+   "event": "added",
+   "id": "niutrans-classical-modern",
+   "name": "Classical-Modern",
+   "license_status": "open",
+   "n_works": ""
+  },
+  {
+   "date": "2026-11-21",
+   "event": "added",
+   "id": "nederlab",
+   "name": "Nederlab",
+   "license_status": "not_stated",
+   "n_works": ""
+  },
+  {
+   "date": "2026-11-21",
+   "event": "added",
+   "id": "multilingual-ner-medieval-charters",
+   "name": "NER medieval charters",
+   "license_status": "open",
+   "n_works": ""
+  },
+  {
+   "date": "2026-11-21",
+   "event": "added",
+   "id": "mpiwg-rare-local-gazetteers-harvard-yenching",
+   "name": "Harvard-Yenching rare gazetteers",
+   "license_status": "restricted",
+   "n_works": ""
+  },
+  {
+   "date": "2026-11-21",
+   "event": "added",
+   "id": "monasterium-ner-latin-charters-2026",
+   "name": "MOM NER",
+   "license_status": "open",
+   "n_works": ""
+  },
+  {
+   "date": "2026-11-21",
+   "event": "added",
+   "id": "midia-corpus-italiano-diacronia",
+   "name": "MIDIA",
+   "license_status": "not_stated",
+   "n_works": ""
+  },
+  {
+   "date": "2026-11-21",
+   "event": "added",
+   "id": "medici-archive-project-bia",
+   "name": "BIA (Medici Archive Project)",
+   "license_status": "not_stated",
+   "n_works": ""
+  },
+  {
+   "date": "2026-11-21",
+   "event": "added",
+   "id": "mdz-digitale-sammlungen-ocr",
+   "name": "MDZ OCR",
+   "license_status": "not_stated",
+   "n_works": ""
+  },
+  {
+   "date": "2026-11-21",
+   "event": "added",
+   "id": "litteraturbanken-restricted-works-sprakbanken",
+   "name": "Litteraturbanken restricted",
+   "license_status": "open",
+   "n_works": ""
+  },
+  {
+   "date": "2026-11-21",
+   "event": "added",
+   "id": "litteraturbanken-lb-open-sprakbanken",
+   "name": "Litteraturbanken lb-open",
+   "license_status": "open",
+   "n_works": ""
+  },
+  {
+   "date": "2026-11-21",
+   "event": "added",
+   "id": "latoc-ottoman-turkish",
+   "name": "LATOC",
+   "license_status": "not_stated",
+   "n_works": ""
+  },
+  {
+   "date": "2026-11-21",
+   "event": "added",
+   "id": "latin-josephus-scholarly-corpus",
+   "name": "Latin Josephus",
+   "license_status": "open",
+   "n_works": ""
+  },
+  {
+   "date": "2026-11-21",
+   "event": "added",
+   "id": "kubhist-swedish-historical-newspapers",
+   "name": "Kubhist",
+   "license_status": "open",
+   "n_works": ""
+  },
+  {
+   "date": "2026-11-21",
+   "event": "added",
+   "id": "korpus-sk-corpus-of-historical-slovak",
+   "name": "Corpus of Historical Slovak",
+   "license_status": "not_stated",
+   "n_works": ""
+  },
+  {
+   "date": "2026-11-21",
+   "event": "added",
+   "id": "koenigsfelden-charters-records-htr-tei",
+   "name": "Königsfelden",
+   "license_status": "open",
+   "n_works": ""
+  },
+  {
+   "date": "2026-11-21",
+   "event": "added",
+   "id": "kb-se-data-svenska-tidningar-open-data",
+   "name": "data.kb.se newspapers",
+   "license_status": "open",
+   "n_works": ""
+  },
+  {
+   "date": "2026-11-21",
+   "event": "added",
+   "id": "internet-archive-texts-pre1800",
+   "name": "IA texts pre-1800",
+   "license_status": "open",
+   "n_works": ""
+  },
+  {
+   "date": "2026-11-21",
+   "event": "added",
+   "id": "iforal-dataset",
+   "name": "iForal",
+   "license_status": "open",
+   "n_works": ""
+  },
+  {
+   "date": "2026-11-21",
+   "event": "added",
+   "id": "icelandic-text-archive-clarin-is",
+   "name": "Islenskt textasafn",
+   "license_status": "not_stated",
+   "n_works": ""
+  },
+  {
+   "date": "2026-11-21",
+   "event": "added",
+   "id": "huygens-resources-digital-editions",
+   "name": "Huygens Resources",
+   "license_status": "not_stated",
+   "n_works": ""
+  },
+  {
+   "date": "2026-11-21",
+   "event": "added",
+   "id": "huygens-resoluties-staten-generaal-1576-1630",
+   "name": "Resoluties SG 1576-1630",
+   "license_status": "not_stated",
+   "n_works": ""
+  },
+  {
+   "date": "2026-11-21",
+   "event": "added",
+   "id": "huygens-oorkonden-series",
+   "name": "Huygens oorkonden",
+   "license_status": "not_stated",
+   "n_works": ""
+  },
+  {
+   "date": "2026-11-21",
+   "event": "added",
+   "id": "huygens-generale-missiven-voc",
+   "name": "Generale Missiven VOC",
+   "license_status": "not_stated",
+   "n_works": ""
+  },
+  {
+   "date": "2026-11-21",
+   "event": "added",
+   "id": "huygens-chronicles-nl",
+   "name": "Huygens chronicles",
+   "license_status": "not_stated",
+   "n_works": ""
+  },
+  {
+   "date": "2026-11-21",
+   "event": "added",
+   "id": "htromance-middle-ages-in-spain",
+   "name": "HTRomance Spain",
+   "license_status": "open",
+   "n_works": ""
+  },
+  {
+   "date": "2026-11-21",
+   "event": "added",
+   "id": "htromance-medieval-latin",
+   "name": "HTRomance LAT",
+   "license_status": "open",
+   "n_works": ""
+  },
+  {
+   "date": "2026-11-21",
+   "event": "added",
+   "id": "htr-medieval-documentary-latin-french-zenodo",
+   "name": "HTR documentary LAT-FR",
+   "license_status": "open",
+   "n_works": ""
+  },
+  {
+   "date": "2026-11-21",
+   "event": "added",
+   "id": "htr-anglicana-legal-texts",
+   "name": "Anglicana legal",
+   "license_status": "open",
+   "n_works": ""
+  },
+  {
+   "date": "2026-11-21",
+   "event": "added",
+   "id": "himanis-guerin-htr-ground-truth",
+   "name": "HIMANIS Guérin",
+   "license_status": "open",
+   "n_works": ""
+  },
+  {
+   "date": "2026-11-21",
+   "event": "added",
+   "id": "henry-iii-fine-rolls-tei",
+   "name": "Henry III Fine Rolls",
+   "license_status": "to_check",
+   "n_works": ""
+  },
+  {
+   "date": "2026-11-21",
+   "event": "added",
+   "id": "hathitrust-digital-library-datasets",
+   "name": "HathiTrust datasets",
+   "license_status": "open",
+   "n_works": ""
+  },
+  {
+   "date": "2026-11-21",
+   "event": "added",
+   "id": "hand-of-antwerp-deeds",
+   "name": "Hand of Antwerp",
+   "license_status": "open",
+   "n_works": ""
+  },
+  {
+   "date": "2026-11-21",
+   "event": "added",
+   "id": "hadith-json-sunnah",
+   "name": "hadith-json",
+   "license_status": "not_stated",
+   "n_works": ""
+  },
+  {
+   "date": "2026-11-21",
+   "event": "added",
+   "id": "gallica-bnf-apis-and-ocr-datasets",
+   "name": "Gallica APIs",
+   "license_status": "to_check",
+   "n_works": ""
+  },
+  {
+   "date": "2026-11-21",
+   "event": "added",
+   "id": "esukhia-derge-tengyur",
+   "name": "Esukhia Derge Tengyur",
+   "license_status": "open",
+   "n_works": ""
+  },
+  {
+   "date": "2026-11-21",
+   "event": "added",
+   "id": "esukhia-derge-kangyur",
+   "name": "Esukhia Derge Kangyur",
+   "license_status": "open",
+   "n_works": ""
+  },
+  {
+   "date": "2026-11-21",
+   "event": "added",
+   "id": "epimeddat",
+   "name": "EpiMedDat",
+   "license_status": "open",
+   "n_works": ""
+  },
+  {
+   "date": "2026-11-21",
+   "event": "added",
+   "id": "emlap-early-modern-latin-alchemical-prints",
+   "name": "EMLAP",
+   "license_status": "open",
+   "n_works": ""
+  },
+  {
+   "date": "2026-11-21",
+   "event": "added",
+   "id": "ememt-memt-corpus-early-english-medical-writing",
+   "name": "CEEM (MEMT, EMEMT)",
+   "license_status": "to_check",
+   "n_works": ""
+  },
+  {
+   "date": "2026-11-21",
+   "event": "added",
+   "id": "elte-poetry-corpus",
+   "name": "ELTE Poetry Corpus",
+   "license_status": "restricted",
+   "n_works": ""
+  },
+  {
+   "date": "2026-11-21",
+   "event": "added",
+   "id": "elte-drama-corpus",
+   "name": "ELTE Drama Corpus",
+   "license_status": "restricted",
+   "n_works": ""
+  },
+  {
+   "date": "2026-11-21",
+   "event": "added",
+   "id": "earlyprint-library",
+   "name": "EarlyPrint",
+   "license_status": "restricted",
+   "n_works": ""
+  },
+  {
+   "date": "2026-11-21",
+   "event": "added",
+   "id": "e-ndp-chapter-registers-htr",
+   "name": "e-NDP HTR",
+   "license_status": "open",
+   "n_works": ""
+  },
+  {
+   "date": "2026-11-21",
+   "event": "added",
+   "id": "e-ditiones-lem17",
+   "name": "LEM17",
+   "license_status": "restricted",
+   "n_works": ""
+  },
+  {
+   "date": "2026-11-21",
+   "event": "added",
+   "id": "e-ditiones-corpus17",
+   "name": "E-ditiones CORPUS17",
+   "license_status": "not_stated",
+   "n_works": ""
+  },
+  {
+   "date": "2026-11-21",
+   "event": "added",
+   "id": "dracor-neolatdracor",
+   "name": "NeoLatDraCor",
+   "license_status": "open",
+   "n_works": ""
+  },
+  {
+   "date": "2026-11-21",
+   "event": "added",
+   "id": "dracor-itadracor",
+   "name": "ItaDraCor",
+   "license_status": "restricted",
+   "n_works": ""
+  },
+  {
+   "date": "2026-11-21",
+   "event": "added",
+   "id": "dracor-fredracor",
+   "name": "FreDraCor",
+   "license_status": "restricted",
+   "n_works": ""
+  },
+  {
+   "date": "2026-11-21",
+   "event": "added",
+   "id": "dracor-engdracor",
+   "name": "EngDraCor",
+   "license_status": "restricted",
+   "n_works": ""
+  },
+  {
+   "date": "2026-11-21",
+   "event": "added",
+   "id": "dl-df-hungaricana-medieval-charters",
+   "name": "DL-DF",
+   "license_status": "not_stated",
+   "n_works": ""
+  },
+  {
+   "date": "2026-11-21",
+   "event": "added",
+   "id": "diplomatarium-fennicum",
+   "name": "Dipl. Fennicum",
+   "license_status": "not_stated",
+   "n_works": ""
+  },
+  {
+   "date": "2026-11-21",
+   "event": "added",
+   "id": "diplomatarium-danicum-tekstnet",
+   "name": "Diplomatarium Danicum",
+   "license_status": "restricted",
+   "n_works": ""
+  },
+  {
+   "date": "2026-11-21",
+   "event": "added",
+   "id": "diplomata-belgica",
+   "name": "Diplomata Belgica",
+   "license_status": "not_stated",
+   "n_works": ""
+  },
+  {
+   "date": "2026-11-21",
+   "event": "added",
+   "id": "dharma-sanskrit-philology",
+   "name": "DHARMA Sanskrit philology",
+   "license_status": "open",
+   "n_works": ""
+  },
+  {
+   "date": "2026-11-21",
+   "event": "added",
+   "id": "dharma-nusantara-philology",
+   "name": "DHARMA Nusantara philology",
+   "license_status": "open",
+   "n_works": ""
+  },
+  {
+   "date": "2026-11-21",
+   "event": "added",
+   "id": "dharma-epigraphy",
+   "name": "DHARMA epigraphy",
+   "license_status": "open",
+   "n_works": ""
+  },
+  {
+   "date": "2026-11-21",
+   "event": "added",
+   "id": "dhammareader-tibetan-canon",
+   "name": "Dhammareader Tibetan canon",
+   "license_status": "open",
+   "n_works": ""
+  },
+  {
+   "date": "2026-11-21",
+   "event": "added",
+   "id": "deutsche-inschriften-online-epigraf",
+   "name": "DIO",
+   "license_status": "open",
+   "n_works": ""
+  },
+  {
+   "date": "2026-11-21",
+   "event": "added",
+   "id": "delpher-newspapers-kb-dataset",
+   "name": "Delpher newspapers",
+   "license_status": "open",
+   "n_works": ""
+  },
+  {
+   "date": "2026-11-21",
+   "event": "added",
+   "id": "crodi-regensburg-diachronic-corpus-croatian",
+   "name": "CroDi",
+   "license_status": "restricted",
+   "n_works": ""
+  },
+  {
+   "date": "2026-11-21",
+   "event": "added",
+   "id": "cremma-medieval-lat",
+   "name": "CREMMA Medieval LAT",
+   "license_status": "open",
+   "n_works": ""
+  },
+  {
+   "date": "2026-11-21",
+   "event": "added",
+   "id": "correspsearch-cmif",
+   "name": "CorrespSearch",
+   "license_status": "open",
+   "n_works": ""
+  },
+  {
+   "date": "2026-11-21",
+   "event": "added",
+   "id": "corpus-do-portugues-historico",
+   "name": "Corpus do Portugues",
+   "license_status": "not_stated",
+   "n_works": ""
+  },
+  {
+   "date": "2026-11-21",
+   "event": "added",
+   "id": "chinese-poetry",
+   "name": "chinese-poetry",
+   "license_status": "open",
+   "n_works": ""
+  },
+  {
+   "date": "2026-11-21",
+   "event": "added",
+   "id": "chartularium-universitatis-parisiensis-archive-org",
+   "name": "CUP archive.org",
+   "license_status": "to_check",
+   "n_works": ""
+  },
+  {
+   "date": "2026-11-21",
+   "event": "added",
+   "id": "ced-corpus-english-dialogues-1560-1760",
+   "name": "CED",
+   "license_status": "to_check",
+   "n_works": ""
+  },
+  {
+   "date": "2026-11-21",
+   "event": "added",
+   "id": "cdh-corpus-diccionario-historico-rae",
+   "name": "CDH",
+   "license_status": "not_stated",
+   "n_works": ""
+  },
+  {
+   "date": "2026-11-21",
+   "event": "added",
+   "id": "cbma-chartae-burgundiae-medii-aevi",
+   "name": "CBMA",
+   "license_status": "not_stated",
+   "n_works": ""
+  },
+  {
+   "date": "2026-11-21",
+   "event": "added",
+   "id": "catmus-medieval",
+   "name": "CATMuS Medieval",
+   "license_status": "open",
+   "n_works": ""
+  },
+  {
+   "date": "2026-11-21",
+   "event": "added",
+   "id": "british-library-blbooks-hf",
+   "name": "BL Books (HF)",
+   "license_status": "open",
+   "n_works": ""
+  },
+  {
+   "date": "2026-11-21",
+   "event": "added",
+   "id": "birchbark-letters-rnc-gramoty",
+   "name": "Birchbark RNC",
+   "license_status": "not_stated",
+   "n_works": ""
+  },
+  {
+   "date": "2026-11-21",
+   "event": "added",
+   "id": "biglam-europeana-newspapers",
+   "name": "BigLAM Europeana Newspapers",
+   "license_status": "open",
+   "n_works": ""
+  },
+  {
+   "date": "2026-11-21",
+   "event": "added",
+   "id": "bidiso-relaciones-de-sucesos",
+   "name": "BIDISO",
+   "license_status": "not_stated",
+   "n_works": ""
+  },
+  {
+   "date": "2026-11-21",
+   "event": "added",
+   "id": "bdda-rutgers-ottoman-plague",
+   "name": "BDDA",
+   "license_status": "not_stated",
+   "n_works": ""
+  },
+  {
+   "date": "2026-11-21",
+   "event": "added",
+   "id": "arabic-latin-corpus-parallel-documents",
+   "name": "ALC parallel",
+   "license_status": "open",
+   "n_works": ""
+  },
+  {
+   "date": "2026-11-21",
+   "event": "added",
+   "id": "aposcripta-papal-letters",
+   "name": "APOSCRIPTA",
+   "license_status": "open",
+   "n_works": ""
+  },
+  {
+   "date": "2026-11-21",
+   "event": "added",
+   "id": "anno-onb-labs-historical-newspapers",
+   "name": "ONB Labs ANNO",
+   "license_status": "open",
+   "n_works": ""
+  },
+  {
+   "date": "2026-11-21",
+   "event": "added",
+   "id": "84000-data-tei",
+   "name": "84000 data-tei",
+   "license_status": "restricted",
+   "n_works": ""
+  },
+  {
+   "date": "2026-11-21",
+   "event": "added",
+   "id": "1641-depositions-trinity-college-dublin",
+   "name": "1641 Depositions",
+   "license_status": "to_check",
+   "n_works": ""
+  },
   {
    "date": "2026-11-21",
    "event": "added",

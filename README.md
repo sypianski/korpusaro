@@ -1,7 +1,7 @@
 # Korpusaro: a register of source-text corpora
 
 A register of corpora for historical text research: what each one holds, which period and languages it covers, under what
-licence, and whether it can be downloaded. It currently lists **518 corpora** (52 with a drawn geographic and
+licence, and whether it can be downloaded. It currently lists **638 corpora** (52 with a drawn geographic and
 chronological extent) and **84,227 individual works**. Browse it at **https://sypian.ski/korpusaro/**.
 
 ## Files

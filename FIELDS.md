@@ -1,6 +1,6 @@
 # Korpusaro: register of source-text corpora
 
-Generated 2026-11-21T22:42:14. 518 corpora, 52 with a drawn geographic and chronological extent.
+Generated 2026-11-21T23:20:36. 638 corpora, 52 with a drawn geographic and chronological extent.
 
 - `corpusorum.csv`: one row per corpus; multiple values separated by `; `.
 - `corpusorum.json`: the same records with lists as arrays and the drawn extent as a GeoJSON Feature (`extent`).
