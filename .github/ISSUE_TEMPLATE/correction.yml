@@ -1,0 +1,34 @@
+name: Correction to a corpus entry
+description: Something in a corpus entry is wrong or missing.
+labels: [correction]
+body:
+  - type: input
+    id: corpus_id
+    attributes:
+      label: Corpus id
+      description: The `id` from data/corpusorum.csv, or the part after # in the page address.
+    validations:
+      required: true
+  - type: dropdown
+    id: field
+    attributes:
+      label: Which field?
+      options: ["name", "short_name", "subtitle", "institution", "format", "license", "url", "license_evidence_url", "download_url", "bulk_url", "additional_urls", "languages", "year_from", "year_to", "n_works", "n_authors", "license_status", "access", "downloadable", "other"]
+    validations:
+      required: true
+  - type: input
+    id: value
+    attributes:
+      label: What it should say
+    validations:
+      required: true
+  - type: input
+    id: source
+    attributes:
+      label: Where can we check it? (web address)
+    validations:
+      required: true
+  - type: textarea
+    id: note
+    attributes:
+      label: Note

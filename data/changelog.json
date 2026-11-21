@@ -1,0 +1,437 @@
+{
+ "title": "Korpusaro changelog",
+ "generated": "2026-11-21T22:42:14",
+ "count": 54,
+ "note": "Events are computed when the register is rebuilt: a corpus added or removed, or a change in licence, access, availability flag, download addresses, source address or the number of works and authors.",
+ "events": [
+  {
+   "date": "2026-11-21",
+   "event": "added",
+   "id": "welsh-prose-1300-1425",
+   "name": "Welsh Prose 1300-1425",
+   "license_status": "not_stated",
+   "n_works": ""
+  },
+  {
+   "date": "2026-11-21",
+   "event": "added",
+   "id": "vindolanda-tablets",
+   "name": "Vindolanda",
+   "license_status": "restricted",
+   "n_works": ""
+  },
+  {
+   "date": "2026-11-21",
+   "event": "added",
+   "id": "ud-old-saxon-conos",
+   "name": "UD Old Saxon-ConOS",
+   "license_status": "to_check",
+   "n_works": ""
+  },
+  {
+   "date": "2026-11-21",
+   "event": "added",
+   "id": "sliekkas-old-lithuanian",
+   "name": "SLIEKKAS",
+   "license_status": "not_stated",
+   "n_works": ""
+  },
+  {
+   "date": "2026-11-21",
+   "event": "added",
+   "id": "pg-corpus-2026",
+   "name": "PG Corpus 2026",
+   "license_status": "open",
+   "n_works": ""
+  },
+  {
+   "date": "2026-11-21",
+   "event": "added",
+   "id": "patrimonium",
+   "name": "PATRIMONIVM",
+   "license_status": "not_stated",
+   "n_works": ""
+  },
+  {
+   "date": "2026-11-21",
+   "event": "added",
+   "id": "nino-cunei-oldbabylonian",
+   "name": "OB Text-Fabric",
+   "license_status": "not_stated",
+   "n_works": ""
+  },
+  {
+   "date": "2026-11-21",
+   "event": "added",
+   "id": "nino-cunei-oldassyrian",
+   "name": "OA Text-Fabric",
+   "license_status": "not_stated",
+   "n_works": ""
+  },
+  {
+   "date": "2026-11-21",
+   "event": "added",
+   "id": "nino-cunei-ninmed",
+   "name": "Ninmed Text-Fabric",
+   "license_status": "not_stated",
+   "n_works": ""
+  },
+  {
+   "date": "2026-11-21",
+   "event": "added",
+   "id": "mama-xi",
+   "name": "MAMA XI",
+   "license_status": "not_stated",
+   "n_works": ""
+  },
+  {
+   "date": "2026-11-21",
+   "event": "added",
+   "id": "made-medieval-epigraphy",
+   "name": "MADE",
+   "license_status": "not_stated",
+   "n_works": ""
+  },
+  {
+   "date": "2026-11-21",
+   "event": "added",
+   "id": "iospe",
+   "name": "IOSPE",
+   "license_status": "not_stated",
+   "n_works": ""
+  },
+  {
+   "date": "2026-11-21",
+   "event": "added",
+   "id": "hepol",
+   "name": "HEpOl",
+   "license_status": "not_stated",
+   "n_works": ""
+  },
+  {
+   "date": "2026-11-21",
+   "event": "added",
+   "id": "ekts1-staropolski",
+   "name": "EKTS1",
+   "license_status": "not_stated",
+   "n_works": ""
+  },
+  {
+   "date": "2026-11-21",
+   "event": "added",
+   "id": "eagle",
+   "name": "EAGLE",
+   "license_status": "not_stated",
+   "n_works": ""
+  },
+  {
+   "date": "2026-11-21",
+   "event": "added",
+   "id": "classes-latin-epigraphic",
+   "name": "CLaSSES",
+   "license_status": "not_stated",
+   "n_works": ""
+  },
+  {
+   "date": "2026-11-21",
+   "event": "added",
+   "id": "cgrn",
+   "name": "CGRN",
+   "license_status": "not_stated",
+   "n_works": ""
+  },
+  {
+   "date": "2026-11-21",
+   "event": "added",
+   "id": "armep",
+   "name": "ARMEP",
+   "license_status": "not_stated",
+   "n_works": ""
+  },
+  {
+   "date": "2026-11-21",
+   "event": "added",
+   "id": "ada-cab",
+   "name": "ADA / CAB",
+   "license_status": "not_stated",
+   "n_works": ""
+  },
+  {
+   "date": "2026-11-21",
+   "event": "added",
+   "id": "wikisource-mul",
+   "name": "Wikisource mul",
+   "license_status": "open",
+   "n_works": ""
+  },
+  {
+   "date": "2026-11-21",
+   "event": "added",
+   "id": "tesserae",
+   "name": "Tesserae",
+   "license_status": "not_stated",
+   "n_works": ""
+  },
+  {
+   "date": "2026-11-21",
+   "event": "added",
+   "id": "telamon",
+   "name": "Telamon",
+   "license_status": "restricted",
+   "n_works": ""
+  },
+  {
+   "date": "2026-11-21",
+   "event": "added",
+   "id": "tashkeela",
+   "name": "Tashkeela",
+   "license_status": "open",
+   "n_works": ""
+  },
+  {
+   "date": "2026-11-21",
+   "event": "added",
+   "id": "sedra",
+   "name": "SEDRA",
+   "license_status": "not_stated",
+   "n_works": ""
+  },
+  {
+   "date": "2026-11-21",
+   "event": "added",
+   "id": "roman-inscriptions-serbia",
+   "name": "RIS",
+   "license_status": "restricted",
+   "n_works": ""
+  },
+  {
+   "date": "2026-11-21",
+   "event": "added",
+   "id": "rib",
+   "name": "RIB",
+   "license_status": "open",
+   "n_works": ""
+  },
+  {
+   "date": "2026-11-21",
+   "event": "added",
+   "id": "rea-referenzkorpus-altdeutsch",
+   "name": "ReA",
+   "license_status": "to_check",
+   "n_works": ""
+  },
+  {
+   "date": "2026-11-21",
+   "event": "added",
+   "id": "ppret",
+   "name": "PPRET",
+   "license_status": "restricted",
+   "n_works": ""
+  },
+  {
+   "date": "2026-11-21",
+   "event": "added",
+   "id": "poetic-edda-pettit",
+   "name": "Poetic Edda (Pettit)",
+   "license_status": "restricted",
+   "n_works": ""
+  },
+  {
+   "date": "2026-11-21",
+   "event": "added",
+   "id": "nca-nouveau-corpus-amsterdam",
+   "name": "NCA",
+   "license_status": "not_stated",
+   "n_works": ""
+  },
+  {
+   "date": "2026-11-21",
+   "event": "added",
+   "id": "mqdq",
+   "name": "MQDQ",
+   "license_status": "restricted",
+   "n_works": ""
+  },
+  {
+   "date": "2026-11-21",
+   "event": "added",
+   "id": "macula-hebrew",
+   "name": "MACULA Hebrew",
+   "license_status": "open",
+   "n_works": ""
+  },
+  {
+   "date": "2026-11-21",
+   "event": "added",
+   "id": "lamop-basis-latin-french",
+   "name": "LaMOP Latin-French",
+   "license_status": "open",
+   "n_works": ""
+  },
+  {
+   "date": "2026-11-21",
+   "event": "added",
+   "id": "ircyr-irt",
+   "name": "IRCyr/IRT",
+   "license_status": "to_check",
+   "n_works": ""
+  },
+  {
+   "date": "2026-11-21",
+   "event": "added",
+   "id": "icg",
+   "name": "ICG",
+   "license_status": "restricted",
+   "n_works": ""
+  },
+  {
+   "date": "2026-11-21",
+   "event": "added",
+   "id": "historical-corpus-welsh-1500-1850",
+   "name": "Welsh Hist. Corpus 1500-1850",
+   "license_status": "not_stated",
+   "n_works": ""
+  },
+  {
+   "date": "2026-11-21",
+   "event": "added",
+   "id": "gregori-ecab",
+   "name": "GREgORI",
+   "license_status": "not_stated",
+   "n_works": ""
+  },
+  {
+   "date": "2026-11-21",
+   "event": "added",
+   "id": "efontes",
+   "name": "eFontes",
+   "license_status": "not_stated",
+   "n_works": ""
+  },
+  {
+   "date": "2026-11-21",
+   "event": "added",
+   "id": "dracor-roman-drama-corpus",
+   "name": "DraCor Rom",
+   "license_status": "open",
+   "n_works": ""
+  },
+  {
+   "date": "2026-11-21",
+   "event": "added",
+   "id": "doi-ottoman-inscriptions",
+   "name": "DOI Ottoman inscriptions",
+   "license_status": "restricted",
+   "n_works": ""
+  },
+  {
+   "date": "2026-11-21",
+   "event": "added",
+   "id": "digital-mishnah",
+   "name": "Digital Mishnah",
+   "license_status": "not_stated",
+   "n_works": ""
+  },
+  {
+   "date": "2026-11-21",
+   "event": "added",
+   "id": "dantesearch-tei",
+   "name": "DanteSearch",
+   "license_status": "not_stated",
+   "n_works": ""
+  },
+  {
+   "date": "2026-11-21",
+   "event": "added",
+   "id": "cretan-institutional-inscriptions",
+   "name": "CII",
+   "license_status": "restricted",
+   "n_works": ""
+  },
+  {
+   "date": "2026-11-21",
+   "event": "added",
+   "id": "corph-corpus-palaeohibernicum",
+   "name": "CorPH",
+   "license_status": "to_check",
+   "n_works": ""
+  },
+  {
+   "date": "2026-11-21",
+   "event": "added",
+   "id": "colonia-historical-portuguese",
+   "name": "Colonia",
+   "license_status": "not_stated",
+   "n_works": ""
+  },
+  {
+   "date": "2026-11-21",
+   "event": "added",
+   "id": "cleo",
+   "name": "CLEO",
+   "license_status": "restricted",
+   "n_works": ""
+  },
+  {
+   "date": "2026-11-21",
+   "event": "added",
+   "id": "celt-textbase-full",
+   "name": "CELT",
+   "license_status": "restricted",
+   "n_works": ""
+  },
+  {
+   "date": "2026-11-21",
+   "event": "added",
+   "id": "btmf-dmf",
+   "name": "BTMF/DMF",
+   "license_status": "restricted",
+   "n_works": ""
+  },
+  {
+   "date": "2026-11-21",
+   "event": "added",
+   "id": "armepic-artsakh-armenian-epigraphic-corpus",
+   "name": "ArmEpiC Artsakh",
+   "license_status": "restricted",
+   "n_works": ""
+  },
+  {
+   "date": "2026-11-21",
+   "event": "added",
+   "id": "archibab",
+   "name": "ARCHIBAB",
+   "license_status": "restricted",
+   "n_works": ""
+  },
+  {
+   "date": "2026-11-21",
+   "event": "added",
+   "id": "ancient-graffiti-project",
+   "name": "AGP",
+   "license_status": "restricted",
+   "n_works": ""
+  },
+  {
+   "date": "2026-11-21",
+   "event": "added",
+   "id": "aio",
+   "name": "AIO",
+   "license_status": "not_stated",
+   "n_works": ""
+  },
+  {
+   "date": "2026-11-21",
+   "event": "added",
+   "id": "7partidas-digital-xml-tei",
+   "name": "Siete Partidas TEI",
+   "license_status": "not_stated",
+   "n_works": ""
+  },
+  {
+   "date": "2026-11-21",
+   "event": "baseline",
+   "count": 465
+  }
+ ]
+}

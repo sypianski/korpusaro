@@ -1,0 +1,23 @@
+name: Missing corpus
+description: A corpus we should list.
+labels: [new-corpus]
+body:
+  - type: input
+    id: name
+    attributes:
+      label: Name of the corpus
+    validations:
+      required: true
+  - type: input
+    id: url
+    attributes:
+      label: Web address
+    validations:
+      required: true
+  - type: textarea
+    id: what
+    attributes:
+      label: What is it?
+      description: Period, languages, who runs it, licence if you know it.
+    validations:
+      required: true
